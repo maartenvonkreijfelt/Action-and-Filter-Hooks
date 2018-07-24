@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Custom WP Login
  * Version: 0.1
- * Author: Carrie Dils
+ * Author: Maarten von Kreijfelt
  * License: GPL2+
  * Text Domain: cwpl
  */
